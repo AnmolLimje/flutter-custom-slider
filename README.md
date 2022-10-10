@@ -7,5 +7,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-<img height="480px" src="assets/screenshots/shot1.png">
-<img height="480px" src="assets/screenshots/shot2.png">
+<img height="480px" src="assets/screenshots/shot1.png"><img height="480px" src="assets/screenshots/shot2.png">
